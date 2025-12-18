@@ -1,0 +1,94 @@
+id,description
+AWND,Average wind speed
+CDSD,Cooling Degree Days Season to Date
+CLDD,Cooling Degree Days
+DP01,Number of days with greater than or equal to 0.1 inch of precipitation
+DP10,Number of days with greater than or equal to 1.0 inch of precipitation
+DSND,Number days with snow depth > 1 inch(25.4mm) for the period.
+DSNW,Number days with snow depth > 1 inch.
+DT00,Number days with minimum temperature less than or equal to 0.0 F
+DT32,Number days with minimum temperature less than or equal to 32.0 F
+DX32,Number days with maximum temperature < 32 F.
+DX70,Number days with maximum temperature > 70 F (21.1C)
+DX90,Number days with maximum temperature > 90 F (32.2C)
+DYNT,Day Extreme minimum temperature occurred for the period.
+DYSD,Day the extreme maximum daily Snow Depth for the period occurred.
+DYSN,Day the extreme maximum daily snowfall for the period occurred.
+DYXP,Day Extreme maximum daily precipitation for the period.
+DYXT,Date Extreme maximum temperature occurred for the period.
+EMNT,Extreme minimum temperature for the period.
+EMSD,Extreme maximum snow depth for the period.
+EMSN,Extreme maximum snowfall for the period.
+EMXP,Extreme maximum precipitation for the period.
+EMXT,Extreme maximum temperature for the period.
+EVAP,Evaporation of water from evaporation pan
+HDSD,Heating Degree Days Season to Date
+HN01,Highest minimum soil temperature for the month (degrees F)
+HN02,Highest minimum soil temperature for the month (degrees F)
+HN03,Highest minimum soil temperature for the month (degrees F)
+HN04,Highest minimum soil temperature for the month (degrees F)
+HN05,Highest minimum soil temperature for the month (degrees F)
+HN06,Highest minimum soil temperature for the month (degrees F)
+HN07,Highest minimum soil temperature for the month (degrees F)
+HN08,Highest minimum soil temperature for the month (degrees F)
+HTDD,Heating degree days
+HX01,Highest maximum soil temperature for the month (degrees F)
+HX02,Highest maximum soil temperature for the month (degrees F)
+HX03,Highest maximum soil temperature for the month (degrees F)
+HX04,Highest maximum soil temperature for the month (degrees F)
+HX05,Highest maximum soil temperature for the month (degrees F)
+HX06,Highest maximum soil temperature for the month (degrees F)
+HX07,Highest maximum soil temperature for the month (degrees F)
+HX08,Highest maximum soil temperature for the month (degrees F)
+LN01,Lowest minimum soil temperature for the month (degrees F)
+LN02,Lowest minimum soil temperature for the month (degrees F)
+LN03,Lowest minimum soil temperature for the month (degrees F)
+LN04,Lowest minimum soil temperature for the month (degrees F)
+LN05,Lowest minimum soil temperature for the month (degrees F)
+LN06,Lowest minimum soil temperature for the month (degrees F)
+LN07,Lowest minimum soil temperature for the month (degrees F)
+LN08,Lowest minimum soil temperature for the month (degrees F)
+LX01,Lowest maximum soil temperature for the month (degrees F)
+LX02,Lowest maximum soil temperature for the month (degrees F)
+LX03,Lowest maximum soil temperature for the month (degrees F)
+LX04,Lowest maximum soil temperature for the month (degrees F)
+LX05,Lowest maximum soil temperature for the month (degrees F)
+LX06,Lowest maximum soil temperature for the month (degrees F)
+LX07,Lowest maximum soil temperature for the month (degrees F)
+LX08,Lowest maximum soil temperature for the month (degrees F)
+MN01,Monthly mean minimum soil temperature (degrees F)
+MN02,Monthly mean minimum soil temperature (degrees F)
+MN03,Monthly mean minimum soil temperature (degrees F)
+MN04,Monthly mean minimum soil temperature (degrees F)
+MN05,Monthly mean minimum soil temperature (degrees F)
+MN06,Monthly mean minimum soil temperature (degrees F)
+MN07,Monthly mean minimum soil temperature (degrees F)
+MN08,Monthly mean minimum soil temperature (degrees F)
+MNPN,Daily minimum temperature of water in an evaporation pan
+MX01,Monthly mean maximum soil temperature (degrees F)
+MX02,Monthly mean maximum soil temperature (degrees F)
+MX03,Monthly mean maximum soil temperature (degrees F)
+MX04,Monthly mean maximum soil temperature (degrees F)
+MX05,Monthly mean maximum soil temperature (degrees F)
+MX06,Monthly mean maximum soil temperature (degrees F)
+MX07,Monthly mean maximum soil temperature (degrees F)
+MX08,Monthly mean maximum soil temperature (degrees F)
+MXPN,Daily maximum temperature of water in an evaporation pan
+PRCP,Precipitation
+PSUN,Daily percent of possible sunshine for the period
+SNOW,Snowfall
+TAVG,Average Temperature.
+TMAX,Maximum temperature
+TMIN,Minimum temperature
+TSUN,Total sunshine for the period
+WDF1,Direction of fastest 1-minute wind
+WDF2,Direction of fastest 2-minute wind
+WDF5,Direction of fastest 5-second wind
+WDFG,Direction of peak wind gust
+WDFM,Fastest mile wind direction
+WDMV,Total wind movement
+WSF1,Fastest 1-minute wind speed
+WSF2,Fastest 2-minute wind speed
+WSF5,Fastest 5-second wind speed
+WSFG,Peak gust wind speed
+WSFM,Fastest mile wind speed

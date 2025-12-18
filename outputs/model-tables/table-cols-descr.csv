@@ -1,0 +1,60 @@
+id,description
+ADPT,Monthly Average Dew Point Temperature. Average of daily dew point temperatures given in Celsius or Fahrenheit depending on user specification. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+ASLP,Monthly Average Sea Level Pressure. Average of daily sea level pressures given in hPa or inches of mercury depending on user specification. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+ASTP,Monthly Average Station Level Pressure. Average of daily station level pressures given in hPa or inches of mercury depending on user specification. Missing if more than 5 days within the month aremissing or flagged or if more than 3 consecutive values within the month are missing or flagged.DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+AWBT,Monthly Average Wet Bulb Temperature. Average of daily wet bulb temperatures given in Celsius or Fahrenheit depending on user specification. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+AWND,Average wind speed
+CDSD,Cooling Degree Days Season to Date
+CLDD,Cooling Degree Days
+DP01,Number of days with greater than or equal to 0.1 inch of precipitation
+DP10,Number of days with greater than or equal to 1.0 inch of precipitation
+DP1X,Number of days with >= 1.00 inch/25.4 millimeters in the month
+DSND,Number days with snow depth > 1 inch(25.4mm) for the period.
+DSNW,Number days with snow depth > 1 inch.
+DT00,Number days with minimum temperature less than or equal to 0.0 F
+DT32,Number days with minimum temperature less than or equal to 32.0 F
+DX32,Number days with maximum temperature < 32 F.
+DX70,Number days with maximum temperature > 70 F (21.1C)
+DX90,Number days with maximum temperature > 90 F (32.2C)
+DYFG,Number of Days with Fog
+DYHF,Number of Days with Heavy Fog (visibility less than 1/4 statute mile)
+DYNT,Day Extreme minimum temperature occurred for the period.
+DYSD,Day the extreme maximum daily Snow Depth for the period occurred.
+DYSN,Day the extreme maximum daily snowfall for the period occurred.
+DYTS,Number of Days with Thunderstorms
+DYXP,Day Extreme maximum daily precipitation for the period.
+DYXT,Date Extreme maximum temperature occurred for the period.
+EMNT,Extreme minimum temperature for the period.
+EMSD,Extreme maximum snow depth for the period.
+EMSN,Extreme maximum snowfall for the period.
+EMXP,Extreme maximum precipitation for the period.
+EMXT,Extreme maximum temperature for the period.
+HDSD,Heating Degree Days Season to Date
+HTDD,Heating degree days
+PRCP,Precipitation
+RHAV,Monthly Average Relative Humidity. Average of daily relative humidity values given in percent. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+RHMN,Monthly Average of Minimum Relative Humidity. Average of daily minimum relative humidity values given in percent. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+RHMX,Monthly Average of Maximum Relative Humidity. Average of daily maximum relative humidity values given in percent. Missing if more than 5 days within the month are missing or flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5).
+SNOW,Snowfall
+TAVG,Average Temperature.
+TMAX,Maximum temperature
+TMIN,Minimum temperature
+WDF2,Direction of fastest 2-minute wind
+WDF5,Direction of fastest 5-second wind
+WSF2,Fastest 2-minute wind speed
+WSF5,Fastest 5-second wind speed
+id,Building ID
+year,Year of data record
+zip_code,Postcode of the building
+city,City of the building
+state,State of the building
+climate,ASHRAE climate code of the building
+facility_type,Build type of the building (e.g. single/multi family).
+floor_area_m2,Gross floor are in m2
+year_built,Year in which the building was constructed
+energy_star_rating,Energy star rating of the building
+electric_eui,EUI of electricity in kWh/m2/year
+fuel_eui,EUI of fuel use in kWh/m2/year
+site_eui,Total site EUI of the building in kWh/m2/year
+ghg_emissions_int,GHG emissions of the building
+population,Population of the postcode area

@@ -1,0 +1,201 @@
+,,False,True
+energy_star_rating,count,1688.0,2083.0
+energy_star_rating,mean,55.56101895734597,56.080172827652426
+energy_star_rating,std,33.37184046836842,33.49709732028466
+energy_star_rating,min,0.0,0.0
+energy_star_rating,25%,29.0,28.0
+energy_star_rating,50%,62.0,63.0
+energy_star_rating,75%,85.0,86.5
+energy_star_rating,max,100.0,100.0
+population,count,3257.0,3936.0
+population,mean,41180.26558182376,41290.563008130084
+population,std,23718.96532365947,23627.11701997456
+population,min,504.0,504.0
+population,25%,23682.0,23682.0
+population,50%,30915.0,32077.0
+population,75%,54812.0,56114.0
+population,max,102553.0,116469.0
+floor_area_m2,count,3263.0,3945.0
+floor_area_m2,mean,8328.739114833319,8061.073616566996
+floor_area_m2,std,13684.869229584428,13584.757016402295
+floor_area_m2,min,53.32634496,63.35987328
+floor_area_m2,25%,196.7221872,187.94284992000001
+floor_area_m2,50%,4391.062185600001,4010.9958489600003
+floor_area_m2,75%,9383.207040000001,9104.49792
+floor_area_m2,max,155940.26102208,147314.39956416
+age,count,3263.0,3945.0
+age,mean,48.34385534783941,49.007351077313054
+age,std,31.473482041665097,31.898390224102805
+age,min,0.0,0.0
+age,25%,21.0,23.0
+age,50%,43.0,42.0
+age,75%,77.0,78.0
+age,max,117.0,121.0
+climate_code_2B,count,3263.0,3945.0
+climate_code_2B,mean,0.0,0.0
+climate_code_2B,std,0.0,0.0
+climate_code_2B,min,0.0,0.0
+climate_code_2B,25%,0.0,0.0
+climate_code_2B,50%,0.0,0.0
+climate_code_2B,75%,0.0,0.0
+climate_code_2B,max,0.0,0.0
+climate_code_3B,count,3263.0,3945.0
+climate_code_3B,mean,0.03861477168250076,0.03320659062103929
+climate_code_3B,std,0.19270457113827325,0.17919836187233737
+climate_code_3B,min,0.0,0.0
+climate_code_3B,25%,0.0,0.0
+climate_code_3B,50%,0.0,0.0
+climate_code_3B,75%,0.0,0.0
+climate_code_3B,max,1.0,1.0
+climate_code_3C,count,3263.0,3945.0
+climate_code_3C,mean,0.08335887220349372,0.07680608365019011
+climate_code_3C,std,0.27646626369296184,0.2663172686660681
+climate_code_3C,min,0.0,0.0
+climate_code_3C,25%,0.0,0.0
+climate_code_3C,50%,0.0,0.0
+climate_code_3C,75%,0.0,0.0
+climate_code_3C,max,1.0,1.0
+climate_code_4A,count,3263.0,3945.0
+climate_code_4A,mean,0.44560220655838184,0.41520912547528516
+climate_code_4A,std,0.4971082508044048,0.49282052729939924
+climate_code_4A,min,0.0,0.0
+climate_code_4A,25%,0.0,0.0
+climate_code_4A,50%,0.0,0.0
+climate_code_4A,75%,1.0,1.0
+climate_code_4A,max,1.0,1.0
+climate_code_4B,count,3263.0,3945.0
+climate_code_4B,mean,0.0,0.0
+climate_code_4B,std,0.0,0.0
+climate_code_4B,min,0.0,0.0
+climate_code_4B,25%,0.0,0.0
+climate_code_4B,50%,0.0,0.0
+climate_code_4B,75%,0.0,0.0
+climate_code_4B,max,0.0,0.0
+climate_code_4C,count,3263.0,3945.0
+climate_code_4C,mean,0.035243640821330066,0.0403041825095057
+climate_code_4C,std,0.1844232906232959,0.19669662585299857
+climate_code_4C,min,0.0,0.0
+climate_code_4C,25%,0.0,0.0
+climate_code_4C,50%,0.0,0.0
+climate_code_4C,75%,0.0,0.0
+climate_code_4C,max,1.0,1.0
+climate_code_5A,count,3263.0,3945.0
+climate_code_5A,mean,0.03830830524057616,0.0550063371356147
+climate_code_5A,std,0.19196893736705023,0.22802153338225947
+climate_code_5A,min,0.0,0.0
+climate_code_5A,25%,0.0,0.0
+climate_code_5A,50%,0.0,0.0
+climate_code_5A,75%,0.0,0.0
+climate_code_5A,max,1.0,1.0
+climate_code_5B,count,3263.0,3945.0
+climate_code_5B,mean,0.011032791909285933,0.015716096324461342
+climate_code_5B,std,0.10447207432463823,0.12439060586130467
+climate_code_5B,min,0.0,0.0
+climate_code_5B,25%,0.0,0.0
+climate_code_5B,50%,0.0,0.0
+climate_code_5B,75%,0.0,0.0
+climate_code_5B,max,1.0,1.0
+facility_type_5+ Unit Building,count,3263.0,3945.0
+facility_type_5+ Unit Building,mean,0.011339258351210543,0.01723700887198986
+facility_type_5+ Unit Building,std,0.10589672479157915,0.13016984866783504
+facility_type_5+ Unit Building,min,0.0,0.0
+facility_type_5+ Unit Building,25%,0.0,0.0
+facility_type_5+ Unit Building,50%,0.0,0.0
+facility_type_5+ Unit Building,75%,0.0,0.0
+facility_type_5+ Unit Building,max,1.0,1.0
+facility_type_Mixed Use,count,3263.0,3945.0
+facility_type_Mixed Use,mean,0.09132699969353356,0.08238276299112801
+facility_type_Mixed Use,std,0.2881177175346315,0.27498183695683803
+facility_type_Mixed Use,min,0.0,0.0
+facility_type_Mixed Use,25%,0.0,0.0
+facility_type_Mixed Use,50%,0.0,0.0
+facility_type_Mixed Use,75%,0.0,0.0
+facility_type_Mixed Use,max,1.0,1.0
+facility_type_Multifamily,count,3263.0,3945.0
+facility_type_Multifamily,mean,0.5439779344161815,0.5229404309252218
+facility_type_Multifamily,std,0.4981385233815857,0.4995367760425479
+facility_type_Multifamily,min,0.0,0.0
+facility_type_Multifamily,25%,0.0,0.0
+facility_type_Multifamily,50%,1.0,1.0
+facility_type_Multifamily,75%,1.0,1.0
+facility_type_Multifamily,max,1.0,1.0
+facility_type_Residential,count,3263.0,3945.0
+facility_type_Residential,mean,0.34538768004903464,0.3612167300380228
+facility_type_Residential,std,0.47556738986252556,0.48041410036928045
+facility_type_Residential,min,0.0,0.0
+facility_type_Residential,25%,0.0,0.0
+facility_type_Residential,50%,0.0,0.0
+facility_type_Residential,75%,1.0,1.0
+facility_type_Residential,max,1.0,1.0
+facility_type_Single Family,count,3263.0,3945.0
+facility_type_Single Family,mean,0.0,0.00025348542458808617
+facility_type_Single Family,std,0.0,0.015921225599434423
+facility_type_Single Family,min,0.0,0.0
+facility_type_Single Family,25%,0.0,0.0
+facility_type_Single Family,50%,0.0,0.0
+facility_type_Single Family,75%,0.0,0.0
+facility_type_Single Family,max,0.0,1.0
+electricity_fuel_ratio,count,2609.0,3190.0
+electricity_fuel_ratio,mean,5.70367735846495,8.30452034127531
+electricity_fuel_ratio,std,84.26591098807647,184.72069248271865
+electricity_fuel_ratio,min,0.018640836975615253,0.0
+electricity_fuel_ratio,25%,0.2932308093684092,0.2640335881502569
+electricity_fuel_ratio,50%,0.7748014064826634,0.7248037988467877
+electricity_fuel_ratio,75%,1.5239865020293306,1.4578412626514137
+electricity_fuel_ratio,max,3757.344650925348,7137.422569150311
+age_floor_area,count,3263.0,3945.0
+age_floor_area,mean,398429.85056428827,388774.4640342096
+age_floor_area,std,812953.1724169835,708281.2299593968
+age_floor_area,min,0.0,0.0
+age_floor_area,25%,6065.36077248,5564.79919296
+age_floor_area,50%,176289.09258240002,178398.82771776
+age_floor_area,75%,500712.03599328,504630.36105984
+age_floor_area,max,14190563.75300928,9564641.474549761
+age_2,count,3263.0,3945.0
+age_2,mean,3327.4048421697826,3418.969835234474
+age_2,std,3549.2674095873485,3704.078483936984
+age_2,min,0.0,0.0
+age_2,25%,441.0,529.0
+age_2,50%,1849.0,1764.0
+age_2,75%,5929.0,6084.0
+age_2,max,13689.0,14641.0
+energy_star_rating_2,count,1688.0,2083.0
+energy_star_rating_2,mean,4200.046800947867,4266.502640422467
+energy_star_rating_2,std,3446.4616893607867,3447.971991246242
+energy_star_rating_2,min,0.0,0.0
+energy_star_rating_2,25%,841.0,784.0
+energy_star_rating_2,50%,3844.0,3969.0
+energy_star_rating_2,75%,7225.0,7482.5
+energy_star_rating_2,max,10000.0,10000.0
+log_floor_area,count,3263.0,3945.0
+log_floor_area,mean,3.323055416665373,3.285762162055578
+log_floor_area,std,0.8746373735734728,0.8831128189536185
+log_floor_area,min,1.7269418177330993,1.8018142999916047
+log_floor_area,25%,2.293853332230565,2.2740258081059306
+log_floor_area,50%,3.6425695875648065,3.6032522125239805
+log_floor_area,75%,3.9723512991177685,3.9592560010276205
+log_floor_area,max,5.1929582568331885,5.168245199969639
+observed,count,3263.0,3945.0
+observed,mean,109.47091674804688,267.32806396484375
+observed,std,67.43809509277344,76.24430084228516
+observed,min,15.1376953125,107.20896911621094
+observed,25%,53.66982460021973,197.490234375
+observed,50%,88.09272766113281,268.11090087890625
+observed,75%,163.32421112060547,335.9619140625
+observed,max,309.7629089355469,399.9998779296875
+predicted,count,3263.0,3945.0
+predicted,mean,184.13059997558594,183.10470581054688
+predicted,std,68.40579223632812,70.66826629638672
+predicted,min,69.40472412109375,31.10170555114746
+predicted,25%,122.88872909545898,119.72315979003906
+predicted,50%,167.64451599121094,167.5319366455078
+predicted,75%,240.22604370117188,244.21200561523438
+predicted,max,367.4433288574219,348.325439453125
+residuals,count,3263.0,3945.0
+residuals,mean,-74.6596908569336,84.22337341308594
+residuals,std,26.16488265991211,34.39997482299805
+residuals,min,-252.22164916992188,50.00920104980469
+residuals,25%,-83.95083618164062,59.3260498046875
+residuals,50%,-66.40716552734375,73.52142333984375
+residuals,75%,-56.77214241027832,97.72294616699219
+residuals,max,-50.011878967285156,285.2773742675781
