@@ -23,3 +23,8 @@ src/data-exploration/weather-data-request-preparation-Copy4.py
 *.ist
 *.eps
 *.bbl-SAVE-ERROR
+src/data-exploration/.ipynb_checkpoints/Interactive-1-checkpoint.ipynb
+src/data-exploration/.ipynb_checkpoints/weather-data-request-preparation-Copy1-checkpoint.py
+src/data-exploration/.ipynb_checkpoints/weather-data-request-preparation-Copy2-checkpoint.py
+src/data-exploration/.ipynb_checkpoints/weather-data-request-preparation-Copy3-checkpoint.py
+src/data-exploration/.ipynb_checkpoints/weather-data-request-preparation-Copy4-checkpoint.py
