@@ -6,15 +6,14 @@ This repository contains the code, data descriptions, and documentation for my M
 
 ## 📄 Overview
 
-**Title:** *[Insert your thesis title here]*  
+**Title:** *Predicting Residential Energy Use Intensity from Constrained Open Data Using Embedding-Enhanced Machine Learning and Open Weather Data*  
 **Author:** Dominik Mecko  
 **Degree:** MSc  
-**Institution:** [Your University]  
-**Supervisor:** [Supervisor’s Name]  
-**Year:** 2025 (or relevant)  
+**Institution:** University of Bath  
+**Year:** 2025 
 
 This repository supports the reproducible research associated with the thesis, including:
-- Model training and evaluation code (Python / R)
+- Model training and evaluation code (Python)
 - Data preprocessing pipelines
 - Diagnostic plots and error analyses (e.g., calibration curves, error deciles)
 - Final document in PDF
@@ -26,25 +25,19 @@ This repository supports the reproducible research associated with the thesis, i
 ```text
 MSc-Thesis-Public/
 ├── data/
-│   ├── weather_processed.csv
-│   ├── energy_eui.csv
-│   └── README_DATA.md
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_evaluation_plots.ipynb
+│   ├── processed/
+│   	└──  synthetic-data.csv
 ├── src/
-│   ├── modeling.py
-│   ├── metrics.py
-│   ├── utils.py
-│   └── conformal.py
-├── results/
-│   ├── calibration_plot.png
-│   ├── error_by_decile.csv
-│   └── prediction_intervals.csv
-├── thesis/
-│   ├── final_thesis.pdf
-│   └── appendix.zip
+│   ├── data-exploration/
+│   	└──  exploratory-analysis.py
+│   	└──  exploratory-analysis.ipynb
+│   	└──  weather-data-request-preparation.py
+│   ├── modelling/
+│   	└──  modelling.py
+├── outputs/
+│   ├── model-figures/
+│   ├── model-figures/
+│   ├── exploratory-figures/
+│   ├── exploratory-figures/
 ├── environment.yml
-├── requirements.txt
 └── README.md
